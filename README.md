@@ -1,6 +1,6 @@
 # Hello-world
 First project on GitHub
 
-Hi Humans!
+Hi!
 
 Koltesh here. I like to create websites. 
